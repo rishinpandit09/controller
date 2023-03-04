@@ -1,0 +1,4 @@
+#Sat Mar 04 21:43:30 IST 2023
+base.0=E\:\\Projects\\AusamProject\\App\\Automated-Gate-UI\\Controler_app\\controller\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
